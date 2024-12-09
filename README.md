@@ -1,8 +1,8 @@
-## NAME: DEEPAK JG
-## REG N0: 24901065
-## EXP N0:5 : JK FLIPFLOP USING IF ELSE
+### NAME: DEEPAK JG
+### REG N0: 24901065
+# EXP N0:5 : JK FLIPFLOP USING IF ELSE
 
-## AIM:
+# AIM:
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
 
